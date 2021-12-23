@@ -35,8 +35,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/components" />
+      <recent name="$PROJECT_DIR$/src/pages" />
+      <recent name="$PROJECT_DIR$/src/pages/category" />
       <recent name="$PROJECT_DIR$/src" />
-      <recent name="$PROJECT_DIR$/src/components/app" />
+      <recent name="$PROJECT_DIR$" />
     </key>
   </component>
   <component name="RunManager" selected="npm.npm start">
@@ -64,6 +67,7 @@
       <updated>1640153851256</updated>
       <workItem from="1640153853263" duration="8042000" />
       <workItem from="1640162802769" duration="49000" />
+      <workItem from="1640232074308" duration="24393000" />
     </task>
     <servers />
   </component>

@@ -1,10 +1,17 @@
+import {Link} from "react-router-dom";
+
 const Header = () => {
     return(
         <nav className='pink accent-2'>
             <div className="nav-wrapper">
-                <a href="!#" className="brand-logo">Food Shop</a>
+                <Link to="/" className="brand-logo">Food Catalog</Link>
                 <ul id="nav-mobile" className="right hide-on-med-and-down">
-                    <li><a href="!#">Repo</a></li>
+                    <li>
+                        <Link to="/about">About</Link>
+                    </li>
+                    <li>
+                        <Link to="/contacts">Contact</Link>
+                    </li>
                 </ul>
             </div>
         </nav>
