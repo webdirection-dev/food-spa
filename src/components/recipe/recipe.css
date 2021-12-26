@@ -1,0 +1,9 @@
+.recipe img {
+    max-width: 100%;
+}
+
+.recipe iframe {
+    width: 600px;
+    height: 350px;
+    max-width: 100%;
+}

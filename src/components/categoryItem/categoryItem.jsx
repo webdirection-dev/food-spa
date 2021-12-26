@@ -1,8 +1,11 @@
-import {Link} from "react-router-dom";
+import {Link, useHistory} from "react-router-dom";
 import './categoryItem.css'
 
 const CategoryItem = (props) => {
     const {item} = props
+
+    // const {goBack} = useHistory()
+
     return <View item={item}/>
 }
 
