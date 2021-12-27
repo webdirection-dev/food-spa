@@ -2,6 +2,7 @@
   "name": "food-spa",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://webdirection-dev.github.io/food-spa/",
   "dependencies": {
     "materialize-css": "^1.0.0-rc.2",
     "react": "^17.0.2",
