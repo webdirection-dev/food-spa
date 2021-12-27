@@ -15,7 +15,7 @@ import Recipe from "../components/recipe";
 function App() {
     return (
         <>
-            <Router basename='/food-spa'>
+            <Router >
                 <Header />
 
                 <main className="container content">
